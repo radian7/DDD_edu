@@ -1,6 +1,6 @@
 using System;
 
-namespace DDD_edu
+namespace DDD_edu.Controllers.DTO
 {
     public class WeatherForecast
     {
