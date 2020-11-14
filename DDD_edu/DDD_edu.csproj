@@ -5,6 +5,8 @@
   </PropertyGroup>
 
   <ItemGroup>
+    <Folder Include="BuildingBlocks\Application\" />
+    <Folder Include="BuildingBlocks\Infrastructure\" />
     <Folder Include="Domain\" />
     <Folder Include="Application\" />
     <Folder Include="Infrastructure\" />
